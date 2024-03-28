@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Chakradhar Kadiyala</h1>
 <h3 align="center">DevOps and cloud.</h3>
-<img align= "right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966](https://stellargenetic.blaineam.com/)">
+<img align= "right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
 - 🔭 I’m currently working on Project: **Telus Health My-Care project**
