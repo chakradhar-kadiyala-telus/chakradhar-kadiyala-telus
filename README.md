@@ -1,27 +1,99 @@
-
 <h1 align="center">Hi 👋, I'm Chakradhar Kadiyala</h1>
-<h3 align="center">You don't have to be great to start, but you have to start to be great.</h3>
-<h3 align="center">Platform Engineer.</h3>
-<img align= "right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
+<h3 align="center">
+  <em>"You don't have to be great to start, but you have to start to be great."</em>
+</h3>
 
-- 🔭 I’m currently working on Project: **Telus Health My-Care**
+<h4 align="center">Platform Engineer | Cloud Infrastructure | DevOps Enthusiast</h4>
 
-- 🌱 I’m currently working on tech stack **Kubernetes, GitHub Actions, Terraform, Terragrunt, AWS.**
-
-- 📫 How to reach me **chakradhar.kadiyala@telus.com**
-
-- ⚡ Fun fact **Collaborative work is always fun!! Let's meet to know new stuff!!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  Passionate about building scalable cloud infrastructure and automating deployment pipelines. Experienced in Kubernetes orchestration, Infrastructure as Code, and CI/CD automation. I believe in collaborative problem-solving and continuous learning.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chakradhar-kadiyala-telus&show_icons=true&locale=en&layout=compact" alt="chakradhar-kadiyala-telus" /></p>
+## 🔭 Current Focus
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chakradhar-kadiyala-telus&show_icons=true&locale=en" alt="chakradhar-kadiyala-telus" /></p>
+- **Project:** Telus Health My-Care Platform
+- **Tech Stack:** Kubernetes, GitHub Actions, Terraform, Terragrunt, AWS
+- **Focus Areas:** Infrastructure automation, cloud-native development, and DevOps practices
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chakradhar-kadiyala-telus&" alt="chakradhar-kadiyala-telus" /></p>
+## 🌱 What I'm Learning
+
+- Advanced Kubernetes patterns and best practices
+- Infrastructure scaling and optimization
+- Cloud cost management and optimization
+- Security best practices in cloud infrastructure
+
+## 💼 Professional Interests
+
+- Platform Engineering
+- Cloud Architecture (AWS)
+- Infrastructure as Code (IaC)
+- CI/CD Pipeline Optimization
+- Container Orchestration
+- DevOps Culture & Practices
+
+## 📫 Get In Touch
+
+- **Email:** chakradhar.kadiyala@telus.com
+- **Open to:** Collaborations, technical discussions, and sharing knowledge
+
+## ⚡ Fun Fact
+
+Collaborative work is always fun! Let's connect and discover new things together! 🚀
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chakradhar-kadiyala-telus&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  </p>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=chakradhar-kadiyala-telus&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+  </p>
+  
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chakradhar-kadiyala-telus&theme=dark" alt="GitHub Streak" />
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <i>Let's connect and build amazing things together! 🚀</i>
+</div>
