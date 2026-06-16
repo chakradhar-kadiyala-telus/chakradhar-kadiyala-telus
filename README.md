@@ -7,7 +7,7 @@
 <h4 align="center">DevSevOps Engineer | Cloud Infrastructure | DevOps Enthusiast</h4>
 
 <p align="center">
-  Passionate about building scalable cloud infrastructure and automating deployment pipelines. Experienced in Kubernetes orchestration, Infrastructure as Code, and CI/CD automation. I believe in collaborative problem-solving and continuous learning.
+  Passionate about building scalable cloud infrastructure and automating deployment pipelines. Experienced in Kubernetes orchestration, Infrastructure as Code, and CI/CD automation. I believe in collaboration and continuous learning.
 </p>
 
 ---
@@ -73,24 +73,6 @@ Collaborative work is always fun! Let's connect and discover new things together
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
 </p>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chakradhar-kadiyala-telus&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-  </p>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=chakradhar-kadiyala-telus&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-  </p>
-  
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chakradhar-kadiyala-telus&theme=dark" alt="GitHub Streak" />
-  </p>
-</div>
 
 ---
 
