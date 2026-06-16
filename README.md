@@ -4,7 +4,7 @@
   <em>"You don't have to be great to start, but you have to start to be great."</em>
 </h3>
 
-<h4 align="center">Platform Engineer | Cloud Infrastructure | DevOps Enthusiast</h4>
+<h4 align="center">DevSevOps Engineer | Cloud Infrastructure | DevOps Enthusiast</h4>
 
 <p align="center">
   Passionate about building scalable cloud infrastructure and automating deployment pipelines. Experienced in Kubernetes orchestration, Infrastructure as Code, and CI/CD automation. I believe in collaborative problem-solving and continuous learning.
